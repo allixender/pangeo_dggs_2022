@@ -1,0 +1,36 @@
+channels:
+  - conda-forge
+dependencies:
+  - cartopy
+  - descartes
+  - fiona
+  - folium
+  - gdal=3
+  - geographiclib
+  - geojson
+  - geopandas
+  - geopy
+  - geoviews
+  - holoviews
+  - ipykernel
+  - ipython
+  - ipywidgets
+  - jupyter
+  - jupyter_lab
+  - jupyter_client
+  - matplotlib
+  - notebook
+  - numpy
+  - pandas
+  - proj
+  - pyproj
+  - rasterio
+  - requests
+  - shapely
+  - h3-py
+  - pip
+  - pip:
+      - mapclassify
+      - dggrid4py
+      - rHEALPixDGGS
+      - rasterstats
