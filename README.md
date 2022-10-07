@@ -9,7 +9,7 @@ Pangeo Show and Tell - 06. Oct., 2022
 
 Twitter:
 
-[@Lgeoinformatics](https://twitter.com/Lgeoinformatics) │ []@allixender](https://twitter.com/allixender)
+[@Lgeoinformatics](https://twitter.com/Lgeoinformatics) │ [@allixender](https://twitter.com/allixender)
 
 
 ## DGGRID7 
