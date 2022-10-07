@@ -16,7 +16,7 @@ dependencies:
   - ipython
   - ipywidgets
   - jupyter
-  - jupyter_lab
+  - jupyterlab
   - jupyter_client
   - matplotlib
   - notebook
